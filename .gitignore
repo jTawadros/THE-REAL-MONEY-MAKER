@@ -1,0 +1,7 @@
+build/
+build-debug/
+build-cmake/
+*.o
+*.d
+gmon.out
+*.csv
